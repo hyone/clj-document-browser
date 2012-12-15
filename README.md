@@ -1,4 +1,4 @@
-# document-browser
+# clj-document-browser
 
 Simple Clojure Documentation Browser Application
 
