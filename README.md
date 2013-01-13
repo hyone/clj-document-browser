@@ -2,6 +2,8 @@
 
 Simple Clojure Documentation Browser Application
 
+![ScreenShot](https://raw.github.com/hyone/clj-document-browser/master/screenshot.png)
+
 ## Run App
 
     $ lein run
